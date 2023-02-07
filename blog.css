@@ -1,0 +1,123 @@
+body{
+    background-color: grey;
+}
+.head{
+    background-color: white;
+    padding: 100px;
+    margin: 40px;
+    text-align: center;
+}
+.sub{
+    background-color: white;
+    padding-bottom: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-left: 40px;
+    margin-right: 600px;
+}
+.sub2{
+    position: relative;
+    left: 60px;
+    bottom:400px;
+    font-style: normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+}
+.sub3{
+    background-color:gray;
+    padding-bottom: 180px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 680px;
+    position: relative;
+    left: 60px;
+    bottom:400px
+}
+.sub4{
+    font-size:large;
+    padding-bottom: 180px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 680px;
+    position: relative;
+    left: 40px;
+    bottom:430px
+    
+}
+.sub5{
+    background-color: white;
+    padding-bottom: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 635px;
+    position: relative;
+    left: 40px;
+    top:-580px;
+    font-size:x-large;
+}
+.sub6{
+    position: relative;
+    left: 60px;
+    bottom:980px;
+    font-style: normal;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman';
+}
+.sub7{
+    background-color:gray;
+    padding-bottom: 180px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 680px;
+    position: relative;
+    left: 60px;
+    bottom:980px
+}
+.sub8{
+    font-size:large;
+    padding-bottom: 180px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 680px;
+    position: relative;
+    left: 40px;
+    bottom:1010px
+}
+.sub9{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: rgb(191, 186, 186);
+    position: relative;
+    bottom: 1180px;
+    left: 40px;
+    margin-right: 70px;
+}
+.sub10{
+    background-color: white;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 210px;
+    margin-right: 1690px;
+    position: relative;
+    bottom:2300px;
+    left: 1650px;
+}
+.sub11{
+    background-color:gray;
+    padding-bottom: 120px;
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-right: 1710px;
+    margin-left: 20px;
+    position: relative;
+    left: 1650px;
+    bottom:2530px
+}
+.sub12{
+    position: relative;
+    bottom:2530px;
+    left:1670px;
+}
+.sub13{
+    background-color: white;
+    padding-top: 20px;
+}

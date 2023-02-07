@@ -1,0 +1,26 @@
+table,th,td,tr{
+    
+    border: 1px solid black;
+   
+    text-align: center;
+    padding: 15px;
+    border-color: rgb(22, 23, 24);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.period{
+    text-transform: uppercase;
+    background-color:cornflowerblue;
+}
+.time{
+    background-color: cornflowerblue;
+}
+td{
+    background-color: lightblue;
+    color: rgb(4, 3, 3);
+}
+th{
+    background-color:lightblue;
+}
